@@ -1,1 +1,1 @@
-ICTSync: Information Centric Transport Sync protocol
+ICTSync: Information Centric Transport Synchronization Library for NDN
